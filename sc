@@ -12,5 +12,5 @@
 {"url":"http://box.iqinu.com","name":"✳️龙门✳️"},
 {"url": "https://毒盒.com/tv","name":"✳️毒盒✳️"},
 {"url": "http://miqk.cc/小米/DEMO.json","name":"✳️小米✳️"},
-{"url":"http://www.meowtv.vip/tvbox.json","name":"✳️太阳✳️"},
+{"url":"http://www.meowtv.vip/tvbox.json","name":"✳️太阳✳️"}
 ]}
