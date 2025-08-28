@@ -33,6 +33,7 @@
 {"name":"花园","type":0,"url":"https://gitee.com/sji820/des/raw/master/0.jpg","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://11.112114.xyz/logo/{name}.png"},
 {"name":"黄仓","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/hsck","playerType":2},
 {"name":"飞鸟","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/chfn","playerType":2},
+{"name":"黑软","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/heiruan","playerType":2},
 {"name":"香蕉","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/xjsp","playerType":2},
 {"name":"午夜","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/wuye","playerType":2},
 {"name":"网黄","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/wanghuang","playerType":2},
@@ -72,6 +73,7 @@
 
 
 }
+
 
 
 
