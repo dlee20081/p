@@ -2,7 +2,7 @@
 {"url":"http://www.饭太硬.com/tv","name":"✳️饭硬✳️"},
 {"url":"http://tvbox.王二小放牛娃.top","name":"✳️放牛✳️"},
 {"url":"http://我不是.摸鱼儿.com","name":"✳️摸鱼✳️"},
-{"url":"https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin","name":"✳️多多✳️"},
+{"url":"https://yydsys.top/duo","name":"✳️多多✳️"},
 {"url":"https://盒子迷.top/禁止贩卖","name":"✳️盒迷✳️"},
 {"url":"https://tv.菜妮丝.top","name":"✳️妮丝✳️"},
 {"url":"http://肥猫.com","name":"✳️肥猫✳️"},
