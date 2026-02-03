@@ -14,5 +14,7 @@
 {"url":"https://clun.top/box.json","name":"✳️雨呢✳️"},
 {"url": "http://miqk.cc/小米/DEMO.json","name":"✳️小米✳️"},
 {"url":"https://gongdian.top/tvbox/gongdian","name":"✳️宫殿✳️"},
-{"url":"http://www.meowtv.vip/tvbox.json","name":"✳️太阳✳️"}
+{"url":"http://www.meowtv.vip/tvbox.json","name":"✳️太阳✳️"},
+{"url":"https://tvbox.catvod.com/xs/api.json","name":"✳️潇洒✳️"},
+{"url":"https://yydf.540734621.xyz/yydf/yydf/yydf.json","name":"✳️业余✳️"}
 ]}
