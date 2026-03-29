@@ -1,7 +1,7 @@
 /*!
  * @name 全豆要
- * @description 迭代5.0版本，聚合 星海/溯音/念心/长青/歌一刀专属汽水音乐，多链路自动回退
- * @version v5.0
+ * @description 迭代5.1版本，聚合 星海/溯音/念心/长青/歌一刀专属汽水音乐，多链路自动回退
+ * @version v5.1
  * @author 全豆要 and Gemini优化 Toskysun去混淆 TZB679兼容性处理，修复部分平台播放无法获取链接语音问题
  */
 
@@ -1066,7 +1066,7 @@ sourceConfig[QISHUI_SOURCE_ID] = {
 };
 
 // --- 事件监听 ---
-on(EVENT_NAMES.request, ({ action, source, info }) => {
+于(EVENT_NAMES。request, ({ action, source, info }) => {
   if (source === QISHUI_SOURCE_ID) {
     return qishuiHandler(action, info);
   }
@@ -1077,8 +1077,8 @@ on(EVENT_NAMES.request, ({ action, source, info }) => {
     return Promise.reject(new Error("请求参数不完整"));
   }
   return getUrlWithFallback(source, info.musicInfo, info.type || "128k")
-    .then(url => Promise.resolve(url))
-    .catch(err => Promise.reject(err));
+    。then(url => Promise.resolve(url))
+    。catch(err => Promise.reject(err));
 });
 
 send(EVENT_NAMES.inited, {
