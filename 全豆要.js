@@ -1,7 +1,7 @@
 /*!
- * @name 全豆要[聚合音源]
+ * @name 全豆要
  * @description 迭代9.3版本，聚合 星海/溯音/念心/长青/歌一刀专属汽水音乐，多链路自动回退
- * @version 9.3 93特供版 DeepSeek优化
+ * @version 9.3
  * @author 全豆要 and Gemini优化 Toskysun去混淆 TZB679兼容性处理
  * @contribution DeepSeek优化
  */
