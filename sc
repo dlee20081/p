@@ -5,7 +5,7 @@
 {"url":"http://摸鱼儿.cc","name":"✳️摸鱼✳️"},
 {"url":"https://cnb.cool/fish2035/xs/-/git/raw/main/api.json","name":"✳️潇洒✳️"},
 {"url":"https://cnb.cool/fish2035/pg/-/git/raw/main/jsm.json","name":"✳️熊猫✳️"},
-{"url":"https://cnb.cool/fish2035/zx/-/git/raw/master/FongMi.json","name":"✳️真心✳️"},
+{"url":"https://www.252035.xyz/z/FongMi.json","name":"✳️真心✳️"},
 {"url":"http://www.英格里希嗷呜.top","name":"✳️嗷呜✳️"},
 {"url":"https://盒子迷.top/禁止贩卖","name":"✳️盒迷✳️"},
 {"url":"http://宝盒接口.top","name":"✳️宝盒✳️"},
