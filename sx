@@ -7,6 +7,7 @@
 {"url":"https://cnb.cool/fish2035/pg/-/git/raw/main/jsm.json","name":"✳️熊猫✳️"},
 {"url":"https://www.252035.xyz/z/FongMi.json","name":"✳️真心✳️"},
 {"url":"http://www.英格里希嗷呜.top","name":"✳️嗷呜✳️"},
+{"url":"http://box.iqinu.com","name":"✳️龙门✳️"},
 {"url":"https://盒子迷.top/禁止贩卖","name":"✳️盒迷✳️"},
 {"url":"http://宝盒接口.top","name":"✳️宝盒✳️"},
 {"url":"https://yydf.540734621.xyz/yydf/yydf/yydf.json","name":"✳️业余✳️"},
